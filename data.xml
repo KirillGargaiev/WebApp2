@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Meetings>
+    <Meeting>
+        <Date>2024-06-01</Date>
+        <Time>08:00</Time>
+        <Person>John Doe</Person>
+        <Place>Room 101</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-09</Date>
+        <Time>11:00</Time>
+        <Person>Jane Smith</Person>
+        <Place>Room 102</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-03</Date>
+        <Time>11:00</Time>
+        <Person>Carol White</Person>
+        <Place>Room 203</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-04</Date>
+        <Time>12:00</Time>
+        <Person>David Green</Person>
+        <Place>Room 204</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-05</Date>
+        <Time>13:00</Time>
+        <Person>Eve Black</Person>
+        <Place>Room 205</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-06</Date>
+        <Time>14:00</Time>
+        <Person>Frank White</Person>
+        <Place>Room 206</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-07</Date>
+        <Time>15:00</Time>
+        <Person>Grace Cooper</Person>
+        <Place>Room 207</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-08</Date>
+        <Time>16:00</Time>
+        <Person>Heidi Craig</Person>
+        <Place>Room 208</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-08</Date>
+        <Time>17:00</Time>
+        <Person>Фкеуь Игвфум</Person>
+        <Place>Room 104</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-09</Date>
+        <Time>09:00</Time>
+        <Person>Ivy Knowles</Person>
+        <Place>Room 209</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-10</Date>
+        <Time>10:00</Time>
+        <Person>Jake Lewis</Person>
+        <Place>Room 210</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-12</Date>
+        <Time>14:30</Time>
+        <Person>Albert Risozki</Person>
+        <Place>Room 302</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-06-21</Date>
+        <Time>18:00</Time>
+        <Person>Olga Verdinen</Person>
+        <Place>Room 215</Place>
+    </Meeting>
+
+</Meetings>
